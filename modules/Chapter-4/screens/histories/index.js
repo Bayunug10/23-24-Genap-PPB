@@ -108,7 +108,7 @@ export default class Histories extends Component {
       rating: 4.5,
       viewCount: 380
     },
-    // Add more story data as needed
+
   ];
 
   data = [
