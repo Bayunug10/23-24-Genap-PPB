@@ -157,7 +157,7 @@ export default class Histories extends Component {
                              )} />
               
             </>
-          {/* )} */}
+        
         </ScrollView>
         <StatusBar style="auto" />
       </SafeAreaView>
