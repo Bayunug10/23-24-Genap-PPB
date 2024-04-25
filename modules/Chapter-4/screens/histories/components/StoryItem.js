@@ -37,8 +37,8 @@ const StoryItem = ({ items }) => {
 };
 
 const generateUniqueId = () => {
-  // Generate a unique ID here
-  return 'uniqueID'; // Implement your logic to generate unique IDs
+  
+  return 'uniqueID'; 
 }
 
 const styles = StyleSheet.create({
