@@ -4,7 +4,7 @@ import { Ionicons } from '@expo/vector-icons';
 import { SafeAreaView, ScrollView, StyleSheet, Text, TextInput, View, Image, TouchableOpacity, SectionList } from 'react-native';
 
 const StoryItem = ({ items }) => {
-  
+
   const userId = generateUniqueId();
   const bookId = generateUniqueId();
 
